@@ -4,19 +4,19 @@ Digital Forensics is the process of finding and analyzing electronic data
 
 ### Steps
 #### Identification
-Finding the relevant digital evidence in storage, hardware, network (E.g., events, packets, or raw data)
+Find the relevant digital evidence in storage, hardware, network (E.g., events, packets, or raw data)
 
 #### Collection
-Preserving and isolating the relevant digital evidence (The evidence should not be changed at any time)
+Preserve and isolate the relevant digital evidence (The evidence should not be changed at any time)
 
 #### Analysis
-Analyze the isolating digital evidence and drawing conclusions (This step could take a long time because raw data might need parsing)
+Analyze the isolated evidence and drawing conclusions (This step could take a long time because raw data might need parsing)
 
 #### Documentation
 Compile all the findings and processes into documents or records (They must be formal in case of being studied or presented in court)
 
 #### Presentation
-Presenting the gathered evidence and the documents, or summarization of drawing conclusions.
+Present the gathered evidence and the documents, or summarization of drawing conclusions.
 
 ## ID
 d6555c98-a4fb-4914-8dcb-3c27d8d2f4e4
