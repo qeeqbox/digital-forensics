@@ -1,8 +1,9 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/digital-forensics/main/digital-forensics.png"></p>
 
-Digital Forensics is the process of finding and analyzing electronic data
+## Digital Forensics
+DF is the process of finding and analyzing electronic data
 
-### Steps
+## Steps
 #### Identification
 Find the relevant digital evidence in storage, hardware, network (E.g., events, packets, or raw data)
 
