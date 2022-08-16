@@ -11,7 +11,7 @@ Find the relevant digital evidence in storage, hardware, network (E.g., events, 
 Preserve and isolate the relevant digital evidence (The evidence should not be changed at any time)
 
 #### Analysis
-Analyze the isolated evidence and drawing conclusions (This step could take a long time because raw data might need parsing)
+Analyze the isolated evidence and draw conclusions based on them (This step could take a long time because raw data might need parsing)
 
 #### Documentation
 Compile all the findings and processes into documents or records (They must be formal in case of being studied or presented in court)
